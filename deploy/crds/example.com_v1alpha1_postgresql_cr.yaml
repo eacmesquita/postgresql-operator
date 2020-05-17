@@ -1,0 +1,8 @@
+apiVersion: example.com/v1alpha1
+kind: Postgresql
+metadata:
+  name: example-postgresql
+spec:
+  replicaCount: 2
+  service:
+    port: 5432

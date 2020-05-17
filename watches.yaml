@@ -1,0 +1,5 @@
+---
+- version: v1alpha1
+  group: example.com
+  kind: Postgresql
+  chart: helm-charts/postgresql
