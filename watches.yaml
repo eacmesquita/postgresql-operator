@@ -2,4 +2,4 @@
 - version: v1alpha1
   group: example.com
   kind: Postgresql
-  chart: helm-charts/postgresql
+  chart: /opt/helm/helm-charts/postgresql
